@@ -4,10 +4,12 @@
 
 [![Banner](assets/banner.svg)](#)
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Follow on GitHub](https://img.shields.io/github/followers/ishandutta2007?style=social)](https://github.com/ishandutta2007)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A comprehensive, curated directory of leading Revenue Recognition (RevRec) engines, automated Revenue Subledgers, ASC 606 & IFRS 15 compliance platforms, and Revenue Operations (RevOps) automation tools — spanning enterprise SaaS solutions and open-source frameworks.**
 
@@ -28,6 +30,8 @@
   - [Detailed Open-Source Profiles](#-detailed-open-source-profiles)
 - [⚖️ ASC 606 & IFRS 15 5-Step Compliance Checklist](#️-asc-606--ifrs-15-5-step-compliance-checklist)
 - [📊 Comparison at a Glance](#-comparison-at-a-glance)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -174,6 +178,22 @@ flowchart LR
 | **B2B-revops-skills** | Open Source | RevOps Playbooks | ✅ | ✅ | LLM agent playbooks for B2B SaaS revenue operations |
 | **eRev** | Desktop App | ASC 606 / IFRS 15 | ❌ | ✅ | Privacy-first local accounting and SSP allocations |
 | **ifrs15-reviewer** | Open Source | ASC 606 / IFRS 15 | ❌ | ✅ | Automated contract audit & compliance risk scanning |
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing this curated directory! If this resource has helped streamline your revenue recognition research, ASC 606 / IFRS 15 compliance checks, or RevOps architecture:
+
+- ⭐ **Star this repository** to show your appreciation and help other finance professionals discover it.
+- 🍴 **Fork the repo** to benchmark and extend tools for your team.
+- 📢 **Share it** on LinkedIn, Twitter/X, Discord, or with your finance and engineering colleagues.
+- ☕ **Support the maintainer**: If you'd like to support ongoing curation and open-source contributions, you can buy a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Revenue-Recognition-Revenue-Operations&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Revenue-Recognition-Revenue-Operations&type=date&legend=top-left)
 
 ---
 
